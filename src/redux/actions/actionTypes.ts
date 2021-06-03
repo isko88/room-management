@@ -1,0 +1,4 @@
+export enum ACTION_TYPES {
+    GET_ROOM_DETAIL,
+    ADD_RESERVATION,
+}
